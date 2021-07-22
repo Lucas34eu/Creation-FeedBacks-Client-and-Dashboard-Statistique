@@ -1,6 +1,5 @@
 # Projet-FeedBacks-Client
 ## Création d'un Pop UP sur le site client et d'un Dashboard pour faire un reporting des avis.
-![](https://i.imgur.com/jEz7Fk7.png)
 ## Objectif : Récuperer les avis client et leur reflexions.
 
 ### Coté Client
@@ -16,6 +15,11 @@ laisser son avis                     |  reporter une anomalie
 ![](https://i.imgur.com/rdp4mmY.png)
 
 ### Coté Dashboard
-![](https://i.imgur.com/jEz7Fk7.png)
+#### Accueil : Nous avons le choix de voir le reporting des Feedbacks ou des Anomalies
+![](https://i.imgur.com/ln8dUHl.png)
+
+#### Reporting
+
+![](https://i.imgur.com/RpLbdvI.png) | ![](https://i.imgur.com/YEMDfOl.png)
 
 ### Technologie Utilisé : JS,Jquery,PHP,Ajax
