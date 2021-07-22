@@ -37,7 +37,7 @@
 
 
   try {
-    $bdd = new PDO('mysql:host=localhost;dbname=j4cfrstats;charset=utf8', 'j4cfrstats', 'GDS4nXSCwtahuyeYjNxT');
+    $bdd = new PDO('mysql:host=localhost;dbname=;charset=utf8', '', '');
   } catch (Exception $e) {
     die('Erreur : ' . $e->getMessage());
   }
