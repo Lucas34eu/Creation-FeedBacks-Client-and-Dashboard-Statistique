@@ -23,4 +23,4 @@ Page 1                  |  Page 2
 :-------------------------:          |:-------------------------:
 ![](https://i.imgur.com/RpLbdvI.png) | ![](https://i.imgur.com/YEMDfOl.png)
 
-### Technologie Utilisé : JS,Jquery,PHP,Ajax
+### Technologie Utilisé : JS,Jquery,PHP,Ajax,BootStrap
