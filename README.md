@@ -6,8 +6,12 @@
 #### Coté Client
 ##### Sur le clique du bandeau à droite un Pop Up apparait
 ![](https://i.imgur.com/jEz7Fk7.png)
-##### Nous avons 2 choix: laisser son avis ou reporter une anomalie
-![](https://i.imgur.com/Z2yLH4i.png)![](https://i.imgur.com/ArVg1yH.png)
+##### Nous avons 2 choix:
+
+laisser son avis                     |  reporter une anomalie
+:-------------------------:          |:-------------------------:
+![](https://i.imgur.com/Z2yLH4i.png) | ![](https://i.imgur.com/ArVg1yH.png)
+
 ##### Une fois le formulaire envoyé on remercie le client.
 ![](https://i.imgur.com/rdp4mmY.png)
 
