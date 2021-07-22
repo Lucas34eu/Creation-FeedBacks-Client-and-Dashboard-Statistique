@@ -19,7 +19,8 @@ laisser son avis                     |  reporter une anomalie
 ![](https://i.imgur.com/ln8dUHl.png)
 
 #### Reporting
-
+Page 1                  |  Page 2 
+:-------------------------:          |:-------------------------:
 ![](https://i.imgur.com/RpLbdvI.png) | ![](https://i.imgur.com/YEMDfOl.png)
 
 ### Technologie Utilisé : JS,Jquery,PHP,Ajax
